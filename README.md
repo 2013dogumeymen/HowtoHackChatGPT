@@ -4,7 +4,7 @@
 How to Hack ChatGPT
 
 English Version:
-[türkçe pdf](How_To_Hack_ChatGPT?.pdf)
+[English pdf](How_To_Hack_ChatGPT.pdf)
 
 Turkish (Original) version:
-[Turkish pdf](ChatGPT_Nasıl_Hacklenir?.pdf)
+[Turkish pdf](ChatGPT_Nasıl_Hacklenir.pdf)
