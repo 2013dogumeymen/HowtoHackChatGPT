@@ -5,7 +5,7 @@
 ChatGPT Nasıl Hacklenir
 
 diliniz için özelleştirilmiş pdf:
-[türkçe pdf](ChatGPT_Nasıl_Hacklenir?.pdf)
+[türkçe pdf](/releases/version/V1.0/)
 
 ingilizce dili çevirisi
 [ingilizce pdf](How_To_Hack_ChatGPT.pdf)
